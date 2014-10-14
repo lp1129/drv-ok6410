@@ -1,8 +1,6 @@
 # makefile
 
 
-KERN_DIR := /home/lpeng/henu/bspwork/linux-3.6.7
-
 obj-m += timer.o
 
 all: modules clean
